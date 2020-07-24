@@ -71,7 +71,7 @@ const Form: React.FC = () => (
     <section style={{paddingTop: 80,textAlign: 'center'}}>
 
       <div style={{marginBottom: 30}}>
-        <div style={{fontSize: 25}}>HAWAI</div>
+        <div style={{fontSize: 25}}><p style={{borderBottomWidth: 1,borderBottomColor: 'red'}}>HAWAI</p></div>
         <div style={{fontSize: 12}}>旅行が楽しかったのでアルバムを作成しました</div>
       </div>
 
